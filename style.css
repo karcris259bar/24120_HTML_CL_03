@@ -1,0 +1,10 @@
+* { margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    width: 100%;
+    background: linear-gradient(130deg,#f1a8a8,#509fc9);
+    opacity: 2.7;
+
+}
